@@ -68,7 +68,7 @@ const ContactPage = () => {
           <div
             className="animate-slide-up"
             ref={(el) => {
-              if (el) sectionRefs.current[0] = el
+              if (el) sectionRefs.current[0] = el as HTMLDivElement
             }}
           >
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-heading font-bold mb-4 sm:mb-6">
@@ -84,7 +84,7 @@ const ContactPage = () => {
       {/* Contact Info Section */}
       <section
         ref={(el) => {
-          if (el) sectionRefs.current[1] = el
+          if (el) sectionRefs.current[1] = el as HTMLDivElement
         }}
         className="py-12 sm:py-20 bg-white"
       >
@@ -228,7 +228,7 @@ const ContactPage = () => {
       {/* FAQ Section */}
       <section
         ref={(el) => {
-          if (el) sectionRefs.current[2] = el
+          if (el) sectionRefs.current[2] = el as HTMLDivElement
         }}
         className="py-16 sm:py-20 bg-gray-50"
       >
@@ -277,7 +277,7 @@ const ContactPage = () => {
       {/* CTA Section */}
       <section
         ref={(el) => {
-          if (el) sectionRefs.current[3] = el
+          if (el) sectionRefs.current[3] = el as HTMLDivElement
         }}
         className="py-12 sm:py-16 bg-gradient-to-r from-red-600 to-red-700 text-white"
       >
