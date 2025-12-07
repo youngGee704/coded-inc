@@ -269,7 +269,7 @@ const ServicesPage = () => {
                   <p className={`mb-6 ${pkg.featured ? "text-red-100" : "text-gray-600"}`}>{pkg.description}</p>
 
                   <a
-                    href="https://wa.me/447848166750"
+                    href="https://wa.me/‪447482793753‬"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`block w-full py-3 rounded-lg font-bold text-center transition-colors duration-200 ${
@@ -307,7 +307,7 @@ const ServicesPage = () => {
           <h2 className="text-3xl md:text-4xl font-heading font-bold mb-6">Ready to Transform Your Tender Process?</h2>
           <p className="text-lg mb-8">Schedule a consultation with our experts to find the right solution for you.</p>
           <a
-            href="https://wa.me/447848166750"
+            href="https://wa.me/‪447482793753‬"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-white text-red-600 font-bold rounded-lg hover:bg-gray-100 transition-colors duration-300"

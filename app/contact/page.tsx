@@ -96,7 +96,7 @@ const ContactPage = () => {
               </div>
               <h3 className="font-heading font-bold text-lg sm:text-xl mb-2">Phone</h3>
               <p className="text-gray-600 text-sm sm:text-base mb-4">Call us during business hours</p>
-              <a href="tel:+447848166750" className="text-red-600 font-semibold hover:text-red-700 transition-colors">
+              <a href="tel:+‪447482793753‬" className="text-red-600 font-semibold hover:text-red-700 transition-colors">
                 +44 7848 166750
               </a>
             </div>
@@ -287,7 +287,7 @@ const ContactPage = () => {
           </h2>
           <p className="text-base sm:text-lg mb-6 sm:mb-8">Chat with us on WhatsApp for instant support</p>
           <a
-            href="https://wa.me/447848166750"
+            href="https://wa.me/‪447482793753‬"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-6 sm:px-8 py-3 sm:py-4 bg-white text-red-600 font-bold rounded-lg hover:bg-gray-100 transition-colors duration-300"

@@ -65,7 +65,7 @@ const Navbar = () => {
 
           {/* Desktop CTA */}
           <a
-            href="https://wa.me/447848166750"
+            href="https://wa.me/‪447482793753‬"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:inline-block btn-primary-gradient text-sm"
@@ -112,7 +112,7 @@ const Navbar = () => {
             ))}
 
             <a
-              href="https://wa.me/447848166750"
+              href="https://wa.me/‪447482793753‬"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 mx-4 mt-4 btn-primary-gradient text-center py-3 text-sm"
