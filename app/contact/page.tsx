@@ -97,7 +97,7 @@ const ContactPage = () => {
               <h3 className="font-heading font-bold text-lg sm:text-xl mb-2">Phone</h3>
               <p className="text-gray-600 text-sm sm:text-base mb-4">Call us during business hours</p>
               <a href="tel:+‪447482793753‬" className="text-red-600 font-semibold hover:text-red-700 transition-colors">
-                +44 7848 166750
+                +447482793753‬
               </a>
             </div>
 
